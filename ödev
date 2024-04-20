@@ -42,6 +42,8 @@ cor(veri$degisken5,veri$bagimli_degisken)
 # T-test yapalım (örnek olarak)
 t.test(veri$degisken2, mu = 550) 
 
+# çıktılar
+
 library(MASS)
 > # 50 kişilik bir veri seti oluşturma,Rastgele sayılar
 > set.seed(123) 
